@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
+  <channel>
+    <title>Klippotek1 Prisjakt Offer Feed</title>
+    <description>Klippotek1 product offers for Prisjakt</description>
+    <link>https://shop.klippotek1.se</link>
+
+    <item>
+      <g:id><![CDATA[K1-GEN-TH-GIFT26]]></g:id>
+      <g:title><![CDATA[Kérastase Genesis Thermique Gåvobox]]></g:title>
+      <g:price>999.00 SEK</g:price>
+      <g:link><![CDATA[https://shop.klippotek1.se/products/kerastase-genesis-thermique-gavobox]]></g:link>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand><![CDATA[Kérastase]]></g:brand>
+      <g:gtin>3474637386092</g:gtin>
+      <g:image_link><![CDATA[https://cdn.shopify.com/s/files/1/1016/3981/5550/files/A8DC23EC-2620-4268-97D3-8C26AC2870AC.png?v=1788340904]]></g:image_link>
+      <g:product_type><![CDATA[Gåvobox]]></g:product_type>
+    </item>
+
+    <item>
+      <g:id><![CDATA[K1-VCS-GIFT26]]></g:id>
+      <g:title><![CDATA[L'Oréal Professionnel Vitamino Color Spectrum Gåvobox]]></g:title>
+      <g:price>799.00 SEK</g:price>
+      <g:link><![CDATA[https://shop.klippotek1.se/products/loreal-professionnel-vitamino-color-spectrum-gavobox]]></g:link>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand><![CDATA[L'Oréal Professionnel]]></g:brand>
+      <g:gtin>3474637391683</g:gtin>
+      <g:image_link><![CDATA[https://cdn.shopify.com/s/files/1/1016/3981/5550/files/IMG-3206.png?v=1788343978]]></g:image_link>
+      <g:product_type><![CDATA[Gåvobox]]></g:product_type>
+    </item>
+  </channel>
+</rss>
