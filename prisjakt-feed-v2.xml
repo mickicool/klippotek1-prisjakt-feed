@@ -30,5 +30,18 @@
       <g:image_link><![CDATA[https://cdn.shopify.com/s/files/1/1016/3981/5550/files/IMG-3206.png?v=1788343978]]></g:image_link>
       <g:product_type><![CDATA[Gåvobox]]></g:product_type>
     </item>
+
+    <item>
+      <g:id><![CDATA[K1-MDX-GIFT26]]></g:id>
+      <g:title><![CDATA[L'Oréal Professionnel Metal DX Gåvobox]]></g:title>
+      <g:price>849.00 SEK</g:price>
+      <g:link><![CDATA[https://shop.klippotek1.se/products/loreal-professionnel-metal-dx-gavobox]]></g:link>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand><![CDATA[L'Oréal Professionnel]]></g:brand>
+      <g:gtin>3474637391287</g:gtin>
+      <g:image_link><![CDATA[https://cdn.shopify.com/s/files/1/1016/3981/5550/files/IMG-3203.png?v=1788284742]]></g:image_link>
+      <g:product_type><![CDATA[Gåvobox]]></g:product_type>
+    </item>
   </channel>
 </rss>
